@@ -14,5 +14,7 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Darius Timmer"
+	"author": {
+		"name": "Darius Timmer"
+	}
 }
